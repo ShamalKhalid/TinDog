@@ -1,0 +1,172 @@
+body{
+  font-family: montserrat-bold;
+}
+#title {
+   background-color: #ff4c68;
+   color: #fff;
+}
+.container-fluid{
+  padding: 3% 12%;
+}
+
+.navbar-brand{
+  font-family: 'Martian Mono', monospace;
+  font-size: 50px;
+}
+.collapse{
+  font-family: 'Martian Mono', monospace;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-weight: 900; /* black */
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h2{
+  color: white;
+  font-family: 'Montserrat';
+  font-size: 3rem;
+  padding-bottom: 5px;
+}
+em{
+  color: beige;
+  padding-left: 20px;
+  line-height: 1.5;
+}
+
+h3{
+  font-family: 'Montserrat'sans-serif;
+}
+.button-apple {
+  background-color: black;
+  color: #fff;
+  padding: 4px 20px 4px 20px;
+  margin-right: 20px;
+  text-align: center;
+  border-radius: 5px;
+}
+.button-gplay{
+  background-color: #ff4c68;
+  color: #ffffff;
+  border-color: #ffffff;
+  padding: 4px 20px 4px 20px;
+  margin-right: 20px;
+  text-align: center;
+  border-radius: 5px;
+}
+button:hover{
+  color: #a19695;
+  background-color: #1a1818;
+}
+
+.fa-solid{
+  color: #ef8172;
+  margin-left:10px;
+  font-size: 3rem;
+}
+.row{
+  margin-left: 20px;
+
+}
+.head_file{
+  padding-top: 180px;
+
+}
+.head_image{
+  padding-top: 50px;
+}
+.specs {
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+p{
+  font-family: Ubuntu;
+  margin-left: 40px;
+  text-align: center;
+  color: #8f8f8f;
+}
+#testimonials {
+  text-align: center;
+  padding: 100px 20px 200px 20px;
+  background-color: #ff4c68;
+}
+#press {
+  text-align: center;
+  padding: 20px;
+  background-color: #ff4c68;
+}
+.dog-image{
+  width: 10%;
+  border-radius: 100%;
+}
+.pricing-head{
+  font-family: 'Playfair Display', serif;
+  color: black;
+  text-align: center;
+  padding-top: 20px;
+}
+#pricing{
+  padding: 20px;
+  text-align: center;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
+.btn-outline{
+  background-color: white;
+  color: black;
+}
+.price-rate{
+  color: black;
+}
+.card-header{
+  margin-bottom: 20px;
+}
+.bottom-container{
+  text-align: center;
+  background-color: #ff4c68;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-top: 20px;
+}
+.bottom-h3{
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  font-size: 60px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-bottom: 50px;
+}
+.socials{
+  position: absolute;
+  left: 600px;
+  margin-top: 15px;
+  padding-top: 10px;
+  margin-bottom: 15px;
+}
+.copyright{
+    padding-top: 75px;
+}
+.fa-twitter{
+  padding-left: 30px;
+}
+.fa-facebook{
+  padding-left: 80px;
+}
+.fa-instagram{
+  padding-left: 80px;
+}
+.fa-envelope{
+  padding-left: 78px;
+  font-size: 17px;
+  color: black;
+}
